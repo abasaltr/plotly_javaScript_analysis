@@ -1,6 +1,51 @@
-html,
 body {
-  height: 100%;
-  padding: 0;
-  margin: 0;
+  background: azure;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h5 {
+  color: #337AB7;
+  font-weight: bold;
+}
+
+h6 {
+  font-weight: bold;
+}
+
+#mainhead{
+  background-color: azure;
+  color: #337AB7;
+  border-color: azure;
+}
+
+.panel {
+  background-color: azure;
+}
+
+.well {
+  background: azure;
+  border-color: azure;
+}
+
+.gauge-frame {
+  margin-left: -60px;
+  margin-top: -30px;
+}
+
+@media (max-width: 991px) {
+  .gauge-frame {
+    margin-top: 0px;
+  }
+  .bubble-plot {
+    margin-top: -80px;
+  }
+}
+
+@media (max-width: 767px) {
+  .gauge-frame {
+    margin-left: 0px;
+  }
 }
