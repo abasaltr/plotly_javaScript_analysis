@@ -1,4 +1,4 @@
-# plotly_javaScript_homework12
+# plotly_javaScript_analysis
 
 https://abasaltr.github.io/plotly_javaScript_homework12/bioDiversity/
 
